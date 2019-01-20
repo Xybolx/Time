@@ -1,0 +1,25 @@
+html {
+    background: url("../images/slats.jpg");
+    background-size: contain;
+}
+
+/* #jumbo {
+    background: url("../images/vw2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+} */
+
+#time {
+    background: white;
+}
+
+#city {
+    background: white;
+
+}
+
+#state {
+    background: white;
+}
