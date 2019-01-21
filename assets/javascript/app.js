@@ -31,7 +31,8 @@ $.ajax({
         $('#city').html(location.city + ",");
         $('#latitude').html(location.latitude);
         $('#longitude').html(location.longitude);
-        $('#ipv4').html(location.IPv4);  
+        $('#ipv4').html(location.IPv4);
+        console.log(location);  
     }
 });		
 
